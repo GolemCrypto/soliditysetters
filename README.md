@@ -4,13 +4,13 @@ Create setters from solidity variables.
 
 e.g. from
 
-```
+```javascript
    bool public isActive;
 ```
 
 to
 
-```
+```javascript
 function setIsActive(bool isActive_) public external {
 		isActive = isActive_;
 }
@@ -18,7 +18,7 @@ function setIsActive(bool isActive_) public external {
 
 use
 
-```
+```bash
 ctrl + shift + p
 > Solidity : generate setters
 
