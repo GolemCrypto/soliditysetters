@@ -17,7 +17,7 @@
 		"commands": [
 			{
 				"command": "soliditysetters.soliditysetter",
-				"title": "Generate Solidity Setter"
+				"title": "Solidity: Generate Setter"
 			}
 		]
 	},
