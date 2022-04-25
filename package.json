@@ -6,6 +6,8 @@
 	"engines": {
 		"vscode": "^1.66.0"
 	},
+	"publisher" : "GolemCrypto"
+	  ,
 	"categories": [
 		"Other"
 	],
@@ -41,5 +43,6 @@
 		"mocha": "^9.2.2",
 		"typescript": "^4.5.5",
 		"@vscode/test-electron": "^2.1.3"
-	}
+	},
+	"repository": "https://github.com/GolemCrypto/soliditysetters"
 }
