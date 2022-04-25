@@ -10,14 +10,14 @@
 		"Other"
 	],
 	"activationEvents": [
-        "onCommand:soliditysetters.helloWorld"
+        "onCommand:soliditysetters.soliditysetter"
 	],
 	"main": "./out/extension.js",
 	"contributes": {
 		"commands": [
 			{
-				"command": "soliditysetters.helloWorld",
-				"title": "Hello World"
+				"command": "soliditysetters.soliditysetter",
+				"title": "Generate Solidity Setter"
 			}
 		]
 	},
