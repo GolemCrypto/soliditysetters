@@ -26,12 +26,16 @@ ctrl + shift + p
 
 ### Compile (if necessary)
 
-```
+```bash
 npm install -g vsce
 vsce package
 ```
 
 ### Install
+
+\> Go to plugins
+\> Options
+\> Install from VSIX..
 
 ## Release Notes
 
